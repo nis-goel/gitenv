@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Environment",
-    "displayName": "Env",
+    "displayName": "EnvTest",
     "description": "Environment"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "6e124a84-17f3-9868-4d1a-cb8a3944bb04"
+    "logicalId": "3f7d237c-922c-99d8-43ac-23f06c452d43"
   }
 }

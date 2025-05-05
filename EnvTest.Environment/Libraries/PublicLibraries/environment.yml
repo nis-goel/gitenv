@@ -1,0 +1,3 @@
+dependencies:
+  - pip:
+      - scipy==1.15.2
