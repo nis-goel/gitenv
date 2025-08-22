@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "asisser_provider_LH_PL"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "26049fce-ca8c-b305-43fc-479206077d94"
+  }
+}
