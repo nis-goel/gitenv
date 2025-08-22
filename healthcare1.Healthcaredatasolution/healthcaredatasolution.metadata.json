@@ -1,0 +1,13 @@
+{
+  "dependencies": [],
+  "indirectDependencies": [],
+  "itemContents": [
+    {
+      "name": "relational-fhir-data-foundations",
+      "version": "1.2.1",
+      "provisionState": "Failed",
+      "deployedItems": {}
+    }
+  ],
+  "configurationCategories": []
+}

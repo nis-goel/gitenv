@@ -6,8 +6,8 @@
       "jobType": "Execute",
       "configuration": {
         "type": "Cron",
-        "startDateTime": "2025-06-22T06:39:00",
-        "endDateTime": "2025-06-27T06:40:00",
+        "startDateTime": "2025-06-23T08:51:00",
+        "endDateTime": "2025-07-01T08:51:00",
         "localTimeZoneId": "UTC",
         "interval": 15
       }

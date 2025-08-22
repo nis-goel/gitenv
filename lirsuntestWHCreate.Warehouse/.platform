@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "lirsuntestWHCreate"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "457759e7-b9ce-9862-4f02-4c03c9ece906"
+  }
+}
